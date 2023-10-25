@@ -4,6 +4,8 @@
 
 Welcome to the **React Clicker Game Learning Project**! This project sets up a framework for a simple clicker game built with React and Ant Design. Your mission, should you choose to accept it, involves filling in the missing logic and functionalities to make the game run smoothly. Ideal for beginners looking to practice state management, effects, and event handling in React.
 
+## Difficulty = ⭐️
+
 ## 🚀 Getting Started
 
 ### Prerequisites
